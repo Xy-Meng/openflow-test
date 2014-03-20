@@ -1,7 +1,7 @@
 openflow-test
 =============
 
-Code for openflow packet crafter and dissector in python scapy
+Code for openflow packet crafter and dissector in python scapy.
 Supports only OF 1.3 for now.
 
 
